@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+h1,h2{
+	text-align:center;
+}
+.player_one{
+	background-color:white;
+	padding: 10px;
+}
+p{
+	padding-left:15px;
+}
+a{
+	text-decoration:none;
+}
+.player_two{
+	background-color:white;
+	float:center;
+	margin-left:100px;
+	margin-right:100px
+}
+audio{
+	padding-left:10px
+}
