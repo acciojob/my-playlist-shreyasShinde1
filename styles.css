@@ -18,8 +18,11 @@ a{
 .player_two{
 	background-color:white;
 	float:center;
-	margin-left:100px;
+	margin-left:92px;
 	margin-right:100px
+}
+video{
+	padding:5px;
 }
 audio{
 	padding-left:10px
